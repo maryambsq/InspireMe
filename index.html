@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="style.css" rel="stylesheet" type="text/css" media="all">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+        <link href="https://cdn.jsdelivr.net/npm/remixicon@4.2.0/fonts/remixicon.css" rel="stylesheet"/>
+        <title>InspireMe.</title>
+  </head>
+
+  <body>
+      <nav class="navbar bg-body-tertiary">
+        
+          <div class="container-fluid">
+                  
+            <a class="navbar-brand sans-serif" href="#">
+              <img src="InspireMe-logo.png" style="max-width: 100px; max-height: 100px;" class="logo">
+                    InspireMe.
+            </a>
+            <ul class="nav justify-content-end">
+              <li class="nav-item">
+                <a class="nav-link text-dark" aria-current="page" href="#about-us">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link text-dark" aria-current="page" href="#menu">Quote Generator</a>
+              </li>
+            </ul>
+        
+          </div>
+                
+      </nav>
+
+      <div class="quote-container">
+        <div class="quote">
+            <h1>Your curated Inpirational Quote</h1>
+            <p id="quoteText">"The only way to do great work is to love what you do." - Steve Jobs</p>
+        </div>
+        <div class="button-container">
+              <a href="#" class="button">
+                <div class="button_content">
+                    <span class="button_text" onclick="getNewQuote()">Get Enlightened</span>
+                    <i class="ri-lightbulb-flash-fill button_icon"></i>
+                    <div class="button_reflection-1"></div>
+                    <div class="button_reflection-2"></div>
+                </div>
+                          
+                <img src="button-assets/star.png" alt="" class="button_star-1">
+                <img src="button-assets/star.png" alt="" class="button_star-2">
+                <img src="button-assets/circle.png" alt="" class="button_circle-1">
+                <img src="button-assets/circle.png" alt="" class="button_circle-2">
+                <img src="button-assets/diamond.png" alt="" class="button_diamond">
+                <img src="button-assets/triangle.png" alt="" class="button_triangle">
+                      
+                <div class="button_shadow"></div>
+              </a>
+        </div>
+      </div>
+    <script>
+      // Sample data for quotes
+      const quotes = [
+          { text: "The only way to do great work is to love what you do.", author: "Steve Jobs" },
+          { text: "Believe you can and you're halfway there.", author: "Theodore Roosevelt" },
+          { text: "It does not matter how slowly you go as long as you do not stop.", author: "Confucius" },
+          { text: "The secret of getting ahead is getting started.", author: "Mark Twain" },
+          { text: "The best time to plant a tree was 20 years ago. The second best time is now.", author: "Chinese Proverb" },
+          { text: "And now that you don't have to be perfect, you can be good", author: "John Steinbeck" },
+          { text: "Life is never fair, and perhaps it is a good thing for most of us that it is not.", author: "Oscar Wilde" },
+          { text: "Everything is hard before it is easy.", author: "Johann Wolfgang von Goethe" },
+          { text: "Anyone who has never made a mistake has never tried anything new.", author: "Albert Einstein" },
+
+        ];
+      
+      // Function to get a random quote
+      function getRandomQuote() {
+              return quotes[Math.floor(Math.random() * quotes.length)];
+      }
+
+      // Function to update the quote
+      function getNewQuote() {
+          const { text, author } = getRandomQuote();
+          document.getElementById("quoteText").innerText = `"${text}" - ${author}`;
+      }
+
+      // Initial call to display a random quote and visual
+      getNewQuote();
+    </script>
+  </body>
+</html>
