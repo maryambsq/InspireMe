@@ -57,7 +57,6 @@
         </div>
       </div>
     <script>
-      // Sample data for quotes
       const quotes = [
           { text: "The only way to do great work is to love what you do.", author: "Steve Jobs" },
           { text: "Believe you can and you're halfway there.", author: "Theodore Roosevelt" },
@@ -71,18 +70,15 @@
 
         ];
       
-      // Function to get a random quote
       function getRandomQuote() {
               return quotes[Math.floor(Math.random() * quotes.length)];
       }
 
-      // Function to update the quote
       function getNewQuote() {
           const { text, author } = getRandomQuote();
           document.getElementById("quoteText").innerText = `"${text}" - ${author}`;
       }
 
-      // Initial call to display a random quote and visual
       getNewQuote();
     </script>
   </body>
