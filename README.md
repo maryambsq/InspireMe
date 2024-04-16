@@ -20,6 +20,7 @@ InspireMe is an intuitive and user-friendly website that offers a collection of 
 ## Technologies Used
 - HTML
 - CSS
+- JavaScript
 - Bootstrap
 - Google Fonts
 
