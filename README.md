@@ -1,5 +1,12 @@
 # InspireMe.
 
+# Table of Contents
+1. [Introduction](#introduction)
+2. [Technologies Used](#technologies-used)
+3. [Features](#features)
+4. [Color Scheme](#color-scheme)
+5. [Contributing](#contributing)
+
 ## Introduction
 
 InspireMe is an intuitive and user-friendly website that offers a collection of inspirational quotes, accompanied by captivating visuals and a sleek color scheme. This project is designed to provide users with a source of motivation and inspiration through curated quotes. The website features a modern design with smooth animations and glistening button effects.
