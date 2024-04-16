@@ -32,7 +32,6 @@ The color scheme of InspireMe creates a harmonious and uplifting atmosphere, enh
 - **Text Color:** A warm gray that ensures readability while maintaining a soft and welcoming feel.
 - **Background Color:** Light gray tones create a subtle background, allowing the content to stand out without being overpowering.
 - **Border Color:** Soft borders in a lighter shade of gray provide structure and definition to the elements on the page.
-- **Body Color:** A light and airy white background that promotes a sense of clarity and spaciousness.
 - **Container Color:** Clean and crisp white containers provide a polished look, ensuring that content remains organized and easy to navigate.
 
 ## Usage
