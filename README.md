@@ -11,16 +11,16 @@
 
 InspireMe is an intuitive and user-friendly website that offers a collection of inspirational quotes, accompanied by captivating visuals and a sleek color scheme. This project is designed to provide users with a source of motivation and inspiration through curated quotes. The website features a modern design with smooth animations and glistening button effects.
 
+## Features
+- **Quote Display:** The website displays a curated inspirational quote on the homepage, providing users with a dose of motivation.
+- **Quote Generator:** Users can click on the "Get Enlightened" button to fetch a new random quote from the collection.
+- **Sleek Design:** The website features a modern and visually appealing design, with smooth animations and a glossy button effect.
+
 ## Technologies Used
 - HTML
 - CSS
 - Bootstrap
 - Google Fonts
-
-## Features
-- **Quote Display:** The website displays a curated inspirational quote on the homepage, providing users with a dose of motivation.
-- **Quote Generator:** Users can click on the "Get Enlightened" button to fetch a new random quote from the collection.
-- **Sleek Design:** The website features a modern and visually appealing design, with smooth animations and a glossy button effect.
 
 ## Color Scheme
 The color scheme of InspireMe creates a harmonious and uplifting atmosphere, enhancing the user experience:
