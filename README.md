@@ -38,4 +38,4 @@ The color scheme of InspireMe creates a harmonious and uplifting atmosphere, enh
 To use InspireMe, simply navigate to the website and you will be greeted with an inspirational quote displayed prominently on the homepage. Click the "Get Enlightened" button to fetch a new random quote from the collection.
 
 ## Contribution
-Contributions to InspireMe are welcome! If you'd like to contribute to the project, feel free to fork the repository and submit a pull request with your changes.
+Contributions to InspireMe are welcome! If you'd like to contribute to the project, feel free to fork the repository and submit a pull request with your changes. 🌟🫧💡
