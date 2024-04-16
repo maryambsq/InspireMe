@@ -26,8 +26,7 @@ InspireMe is an intuitive and user-friendly website that offers a collection of 
 
 ## Color Scheme
 The color scheme of InspireMe creates a harmonious and uplifting atmosphere, enhancing the user experience:
-- **Primary Gradient:** A vibrant gradient that transitions smoothly from a deep purple to a softer lavender, symbolizing creativity and tranquility.
-- **Black:** Provides contrast and adds a touch of elegance to the overall design.
+- **Primary Color:** A vibrant gradient that transitions smoothly from a deep purple to a softer lavender, symbolizing creativity and tranquility.
 - **Reflection Color:** Delicate reflections add depth and visual interest to the elements, enhancing their presence on the page.
 - **Title Color:** A rich shade of navy blue, offering a sense of authority and sophistication.
 - **Text Color:** A warm gray that ensures readability while maintaining a soft and welcoming feel.
