@@ -5,7 +5,8 @@
 2. [Technologies Used](#technologies-used)
 3. [Features](#features)
 4. [Color Scheme](#color-scheme)
-5. [Contributing](#contributing)
+5. [Usage](#usage)
+6. [Contributing](#contributing)
 
 ## Introduction
 
@@ -34,6 +35,8 @@ The color scheme of InspireMe creates a harmonious and uplifting atmosphere, enh
 - **Body Color:** A light and airy white background that promotes a sense of clarity and spaciousness.
 - **Container Color:** Clean and crisp white containers provide a polished look, ensuring that content remains organized and easy to navigate.
 
+## Usage
+To use InspireMe, simply navigate to the website and you will be greeted with an inspirational quote displayed prominently on the homepage. Click the "Get Enlightened" button to fetch a new random quote from the collection.
 
 ## Contribution
 Contributions to InspireMe are welcome! If you'd like to contribute to the project, feel free to fork the repository and submit a pull request with your changes.
