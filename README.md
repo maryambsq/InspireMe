@@ -14,7 +14,7 @@ InspireMe is an intuitive and user-friendly website that offers a collection of 
 
 ## Features
 - **Quote Display:** The website displays a curated inspirational quote on the homepage, providing users with a dose of motivation.
-- **Quote Generator:** Users can click on the "Get Enlightened" button to fetch a new random quote from the collection.
+- **Quote Generation:** Users can click on the "Get Enlightened" button to fetch a new random quote from the collection.
 - **Sleek Design:** The website features a modern and visually appealing design, with smooth animations and a glossy button effect.
 
 ## Technologies Used
