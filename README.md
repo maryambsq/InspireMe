@@ -2,11 +2,11 @@
 
 # Table of Contents
 1. [Introduction](#introduction)
-2. [Technologies Used](#technologies-used)
-3. [Features](#features)
-4. [Color Scheme](#color-scheme)
-5. [Usage](#usage)
-6. [Contributing](#contributing)
+2. [Features](#features)
+3. [Technologies Used](#technologies-used)
+5. [Color Scheme](#color-scheme)
+6. [Usage](#usage)
+7. [Contributing](#contributing)
 
 ## Introduction
 
